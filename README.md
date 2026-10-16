@@ -4,7 +4,11 @@ Connect failed sign-ins, successful access, privilege changes, and exports into 
 
 **Field:** Security analytics & investigation  
 **Relevant roles:** Security Analyst I · Junior Detection Engineer  
-**Status:** working prototype; hosting status is tracked separately.
+**Status:** working prototype, published on GitHub and Vercel.
+
+[**Open the live interactive lab**](https://signaltrail.vercel.app/)
+
+The hosted lab runs synthetic exercises in your browser. See the scope below for local integration exercises and limitations.
 
 ## Run
 
