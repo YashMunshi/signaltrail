@@ -40,9 +40,7 @@ node run.mjs input.json
 - Guided controls plus editable/importable JSON input (maximum 1 MB).
 - Computed decisions, supporting records, explicit empty/error states, and
   downloadable evidence containing the input and limitations.
-- Self-hosted Newsreader headings and DM Sans text; 18px body text,
-  16px supporting text, 15px technical labels, keyboard focus, reduced motion,
-  and responsive evidence rows.
+- Individual visual identity: Oxblood investigation ledger, with self-hosted IBM Plex Sans and Source Code Pro, a custom masthead, readable type, visible keyboard focus, and responsive data views.
 - Independent boundary and regression tests in `tests/`.
 
 ## Scope and limitations
@@ -79,3 +77,7 @@ metrics must be measured separately; passing engine tests does not establish
 visual accessibility or production readiness.
 
 Font notices are included in `web/fonts/`. Source code is MIT licensed.
+
+## Visual identity
+
+See [DESIGN.md](DESIGN.md) for this project’s typography, palette, header, and composition.
